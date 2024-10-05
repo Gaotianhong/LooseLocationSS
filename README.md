@@ -1,6 +1,6 @@
 # LooseLocationSS
 
-This repository is the official implementation of `Loose Lesion Location Self-supervision Enhanced Colorectal Cancer Diagnosis`.
+This repository is the official implementation of [Loose Lesion Location Self-supervision Enhanced Colorectal Cancer Diagnosis (MICCAI 2024)](https://papers.miccai.org/miccai-2024/paper/1379_paper.pdf).
 
 ## Introduction
 
