@@ -45,14 +45,12 @@ python test_loc.py --p_cls --pretrain_weight_path run/ckpt/Nmt/best.pth
 If you find our implementation helpful, please consider citing our paper in your work. Thanks.
 
 ```
-@InProceedings{Gao_Loose_MICCAI2024,
-    author = { Gao, Tianhong and Song, Jie and Yu, Xiaotian and Zhang, Shengxuming and Liang, Wenjie and Zhang, Hongbin and Li, Ziqian and Zhang, Wenzhuo and Zhang, Xiuming and Zhong, Zipeng and Song, Mingli and Feng, Zunlei},
-    title = { { Loose Lesion Location Self-supervision Enhanced Colorectal Cancer Diagnosis } },
-    booktitle = {proceedings of Medical Image Computing and Computer Assisted Intervention -- MICCAI 2024},
-    year = {2024},
-    publisher = {Springer Nature Switzerland},
-    volume = {LNCS 15011},
-    month = {October},
-    page = {pending}
+@inproceedings{gao2024loose,
+  title={Loose Lesion Location Self-supervision Enhanced Colorectal Cancer Diagnosis},
+  author={Gao, Tianhong and Song, Jie and Yu, Xiaotian and Zhang, Shengxuming and Liang, Wenjie and Zhang, Hongbin and Li, Ziqian and Zhang, Wenzhuo and Zhang, Xiuming and Zhong, Zipeng and others},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={415--425},
+  year={2024},
+  organization={Springer}
 }
 ```
